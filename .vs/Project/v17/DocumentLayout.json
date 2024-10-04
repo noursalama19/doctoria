@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\,net\\FinalProject2\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\services\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:services\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\veseetadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\veseetadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\migrations\\20241004100729_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:migrations\\20241004100729_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\clinicinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\clinicinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|d:\\,net\\finalproject2\\project\\project\\models\\blockouthours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58880433-A4B0-45D0-AF73-FDACD6799CC3}|Project.csproj|solutionrelative:models\\blockouthours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Services\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IGenericRepository.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Services\\IGenericRepository.cs",
+              "RelativeToolTip": "Services\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:56:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241004100729_update-database.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Migrations\\20241004100729_update-database.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241004100729_update-database.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Migrations\\20241004100729_update-database.cs",
+              "RelativeToolTip": "Migrations\\20241004100729_update-database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:07:29.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:55:57.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeseetaDBContext.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\VeseetaDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\VeseetaDBContext.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\VeseetaDBContext.cs",
+              "RelativeToolTip": "Models\\VeseetaDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:43:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:42:19.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Day.cs",
+              "RelativeDocumentMoniker": "Models\\Day.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Day.cs",
+              "RelativeToolTip": "Models\\Day.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:42:10.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClinicInsurance.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\ClinicInsurance.cs",
+              "RelativeDocumentMoniker": "Models\\ClinicInsurance.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\ClinicInsurance.cs",
+              "RelativeToolTip": "Models\\ClinicInsurance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:42:00.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Clinic.cs",
+              "RelativeDocumentMoniker": "Models\\Clinic.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Clinic.cs",
+              "RelativeToolTip": "Models\\Clinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:41:49.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:41:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlockOutHours.cs",
+              "DocumentMoniker": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\BlockOutHours.cs",
+              "RelativeDocumentMoniker": "Models\\BlockOutHours.cs",
+              "ToolTip": "D:\\,net\\FinalProject2\\Project\\Project\\Models\\BlockOutHours.cs",
+              "RelativeToolTip": "Models\\BlockOutHours.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:41:24.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
